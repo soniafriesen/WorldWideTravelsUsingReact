@@ -1,1 +1,1 @@
-Server side using Graphql and JavaScript
+Server side using Graphql,express, and JavaScript
