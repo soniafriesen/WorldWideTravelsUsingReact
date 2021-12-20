@@ -1,2 +1,2 @@
 # WorldWideTravelsUsingReact
-JavaScript, React, Express.js and MongoDB
+JavaScript, React, Express.js, Graphql and MongoDB
